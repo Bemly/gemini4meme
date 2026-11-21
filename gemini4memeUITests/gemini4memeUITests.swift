@@ -1,13 +1,13 @@
 //
-//  hajimitestUITests.swift
-//  hajimitestUITests
+//  gemini4memeUITests.swift
+//  gemini4memeUITests
 //
 //  Created by bemly on 2026/11/21.
 //
 
 import XCTest
 
-final class hajimitestUITests: XCTestCase {
+final class gemini4memeUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

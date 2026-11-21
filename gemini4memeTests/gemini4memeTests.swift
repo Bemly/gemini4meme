@@ -1,15 +1,15 @@
 //
-//  hajimitestTests.swift
-//  hajimitestTests
+//  gemini4memeTests.swift
+//  gemini4memeTests
 //
 //  Created by bemly on 2026/11/21.
 //
 
 import Testing
-@testable import hajimitest
+@testable import gemini4meme
 
 @MainActor
-struct hajimitestTests {
+struct gemini4memeTests {
 
     @Test func everyCategoryHasTemplatesAndLexiconEntries() {
         for category in MemeCategory.allCases {

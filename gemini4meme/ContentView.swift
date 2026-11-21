@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  hajimitest
+//  gemini4meme
 //
 //  Created by bemly on 2026/11/21.
 //

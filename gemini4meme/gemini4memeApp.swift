@@ -1,6 +1,6 @@
 //
-//  hajimitestApp.swift
-//  hajimitest
+//  gemini4memeApp.swift
+//  gemini4meme
 //
 //  Created by bemly on 2026/11/21.
 //
@@ -9,7 +9,7 @@ import SwiftData
 import SwiftUI
 
 @main
-struct hajimitestApp: App {
+struct gemini4memeApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             MemeCreation.self,

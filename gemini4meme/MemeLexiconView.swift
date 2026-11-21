@@ -1,6 +1,6 @@
 //
 //  MemeLexiconView.swift
-//  hajimitest
+//  gemini4meme
 //
 //  中文互联网抽象热梗词典与灵感拼贴台
 //

@@ -1,6 +1,6 @@
 //
 //  MemeEngine.swift
-//  hajimitest
+//  gemini4meme
 //
 //  中文互联网抽象热梗构造引擎与词库
 //

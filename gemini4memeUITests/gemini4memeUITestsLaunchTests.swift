@@ -1,13 +1,13 @@
 //
-//  hajimitestUITestsLaunchTests.swift
-//  hajimitestUITests
+//  gemini4memeUITestsLaunchTests.swift
+//  gemini4memeUITests
 //
 //  Created by bemly on 2026/11/21.
 //
 
 import XCTest
 
-final class hajimitestUITestsLaunchTests: XCTestCase {
+final class gemini4memeUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -1,6 +1,6 @@
 //
 //  MemeForgeView.swift
-//  hajimitest
+//  gemini4meme
 //
 //  核心造梗工坊界面：流派切换、槽位填词、抽象浓度滤镜、实时卡片 & 群聊预览
 //

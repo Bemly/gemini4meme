@@ -24,4 +24,5 @@
 ## 🛠️ 运行环境
 
 - macOS (Xcode / SwiftUI / SwiftData)
-- 打开 `hajimitest.xcodeproj`，选择 `hajimitest` Scheme，按 `⌘R` 即可运行。
+- Bundle Identifier: `moe.bemly.meme`
+- 打开 `gemini4meme.xcodeproj`，选择 `gemini4meme` Scheme，按 `⌘R` 即可运行。

@@ -1,6 +1,6 @@
 //
 //  MemeVaultView.swift
-//  hajimitest
+//  gemini4meme
 //
 //  我的抽象梗库（SwiftData 持久化收藏与历史管理）
 //
